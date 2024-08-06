@@ -65,7 +65,6 @@ function addExp() {
     expenses = Object.assign(expenses, obj);
   }
 
-  //console.log(check.length);
   console.log(expenses);
 }
 
